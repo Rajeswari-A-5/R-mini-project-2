@@ -1,0 +1,23 @@
+# R project gitignore
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# Output files (uncomment if you want to exclude)
+# outputs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
